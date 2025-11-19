@@ -49,6 +49,6 @@ This project focuses on end to end cleaning and preparation of a customer purcha
 
 ---
 
-## 👤 Author
+## Author
 
  LinkedIn: https://www.linkedin.com/in/abhaypandey18
